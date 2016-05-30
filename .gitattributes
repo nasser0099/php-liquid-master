@@ -15,3 +15,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+https://github.com/nasser0099/php-liquid-master.git filter=lfs diff=lfs merge=lfs -text
